@@ -37,7 +37,6 @@ tf.config.experimental.set_memory_growth(physical_devices[0],True)
 #### 6. All your images with predictions will be saved in predictions folder.
 Sample predicted images are given in the folder <b>sample_predictions</b>. Look into it for better understanding.
 
-If you are having any douts, feel free to contact me.
-### Contributor:
-#### Yashodhara Shastri G
-#### Contact : yashodharashastri6@gmail.com
+#### If you are having any douts, feel free to contact me below:
+### Yashodhara Shastri G
+### Contact : yashodharashastri6@gmail.com
