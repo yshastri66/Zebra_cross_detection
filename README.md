@@ -8,7 +8,7 @@
 
 <ul>
   <li> This model is trained with 1024*1024 images which is of real time camera quality.</li>
-  <li> I used [nuScenes](https://www.nuscenes.org/) deep drive dataset and also some custom images for training</li>
+  <li> I used <a href="https://www.nuscenes.org/">nuScenes</a> deep drive dataset and also some custom images for training</li>
   <li> I took 2300 images out of 67k images from Nuscenes dataset and 200 real images from camera</li>
   <li> Here I used <b> Tensorflow 2 object detection</b> which is the latest object detection library of google </li>
   <li> I used SSD Resnet 50 1024*1024 model for training purpose </li>
